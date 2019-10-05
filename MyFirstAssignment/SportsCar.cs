@@ -9,7 +9,6 @@ namespace MyFirstAssignment
     {
         public string GetPetName()
         {
-            PetName = "Fred";
             return PetName;
         }
     }
